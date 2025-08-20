@@ -1,1 +1,2 @@
 This is my first note for learning git 
+ making changes in the github.
